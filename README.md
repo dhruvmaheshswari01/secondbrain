@@ -1,1 +1,2 @@
 # SecondBrain
+SecondBrain is a web application designed to help users store and revisit YouTube or X (formerly Twitter) links for future reference. Whether it's a video, tweet, or thread that you want to reflect on or brainstorm about later, SecondBrain provides an easy-to-use platform to submit, store, and organize these links. With a simple interface and the ability to categorize content, SecondBrain ensures that your ideas, inspirations, and resources are always at your fingertips when you need them most.
